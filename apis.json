@@ -1,0 +1,90 @@
+{
+    "name": "Rejoiner",
+    "description": "Rejoiner is a lifecycle email marketing software designed specifically to help online retailers and eCommerce companies reduce their cart abandonment rate and retain their best customers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1358-rejoiner.jpg",
+    "tags": [
+        "commerce",
+        "have api",
+        "javascript",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rejoiner\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rejoiner",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1358-rejoiner.jpg",
+            "humanURL": "http:\/\/rejoiner.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rejoiner-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rejoiner-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/app.rejoiner.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.rejoiner.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/Rejoiner"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/rejoiner"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/rejoiner"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/rejoiner.com\/docs\/api"
+        },
+        {
+            "type": "Email",
+            "url": "mike@rejoiner.com"
+        },
+        {
+            "type": "Email",
+            "url": "help@rejoiner.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@rejoiner.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/rejoiner"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/rejoiner.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/rejoinerapp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/rejoiner.com"
+        }
+    ]
+}
